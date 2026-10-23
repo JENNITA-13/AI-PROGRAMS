@@ -4,7 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 = RESTART: C:/Users/JENNITA/AppData/Local/Programs/Python/Python312/AI PYTHON PROGRAM/AI PP2.py
 Enter number of customers: 1
 
-Customer: 1
+Customer 1
 Enter customer name: JENNITA
 Enter units consumed: 500
 Customer Name : JENNITA
